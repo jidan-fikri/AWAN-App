@@ -1,0 +1,3 @@
+Heavy_Rain
+Low_Chance_of_Rain
+Medium_Rain
