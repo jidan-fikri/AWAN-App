@@ -17,7 +17,7 @@ These are step to deploy Machie Learning model using Google Compute Engine
 3. Run command in SSH
    This command lines is used to interact with our server.
    
-   - Run this command to update
+   - Run this command to update.
         
           sudo apt update
           
@@ -25,20 +25,20 @@ These are step to deploy Machie Learning model using Google Compute Engine
    
           git clone https://github.com/iif8/cpb22-awan.git
           
-   - If the step above does not work, it is because the VM is still new. Run this command
+   - If the step above does not work, it is because the VM is still new. Run this command.
    
           sudo apt install git
           
-   - Download and install minoconda to get python environment
+   - Download and install minoconda to get python environment.
    
           wget https://repo.anaconda.com/miniconda/Miniconda3-4.7.10-Linux-x86_64.sh
           bash Miniconda3-4.7.10-Linux-x86_64.sh
           
-   - If the step above does not work, it is because the VM is still new. Run this command
+   - If the step above does not work, it is because the VM is still new. Run this command.
    
-          sudo apt install sudo
+          sudo apt install wget
           
-   - Point to your path, confirm the instalation, create, and activate the environment
+   - Point to your path, confirm the instalation, create, and activate the environment.
    
           export PATH=/home/<your folder name>/miniconda3/bin:$PATH
           which conda
@@ -51,16 +51,29 @@ These are step to deploy Machie Learning model using Google Compute Engine
           cd cpb22-awan
           pip freeze > requirements.txt
           
-   - Instal library that needed. The vm will provide instructions for libraries that need to be installed
+   - Instal library that needed. The vm will provide instructions for libraries that need to be installed.
    
           pip install flask
           pip install tensorflow
           pip install numphy
           pip install image
           
+   - If library for image cannt be downloaded, run this command
+   
+         python3 -m pip install --upgrade pip
+         python3 -m pip install --upgrade Pillow
+          
    -  Make new folder and upload the Machine Learning model that has extension (.h5). The file is uploaded manually from setting in VM SSH.
    
           mkdir model
+          
+   - If there is problem in file app.py, change the error with command below. Then run the server.
+   
+         sudo nano app.py
+         python3 app.py
+         
+  4. Test the server with open the external IP. Then test the prediction with Postman. The result is below.
+  
     
           
 
