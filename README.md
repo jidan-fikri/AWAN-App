@@ -72,8 +72,10 @@ These are step to deploy Machie Learning model using Google Compute Engine
          sudo nano app.py
          python3 app.py
          
-  4. Test the server with open the external IP. Then test the prediction with Postman. The result is below.
-  
+  4. Test the server with open the external IP. Then test the prediction with Postman. The result is below. 
+    
+      ![Testing awan](https://user-images.githubusercontent.com/99232109/172502561-7fcf89da-73ce-42b3-b00f-2ed70c1c6bf5.png)
+
     
           
 
