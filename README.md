@@ -9,7 +9,7 @@ This app is a part of Bangkit 2022 Capstone Project from team C22-PS272:
 - (ML) M7012G1294 - Kurnia Mayestic Gulo - Universitas Telkom
 - (CC) C2186F1797 - Aqmal Idris Zarkasih  - Universitas Bakrie
 - (CC) C2299F2586 - Iffah Fadhilah  - Universitas Pendidikan Indonesia
-- (MD) A7004G0351 - Aldi Fahmi Sihotang - Institut Teknologi Sepuluh Nopember  
+- (MD) A7004G0351 - Aldi Fahmi Sihotang - Institut Teknologi Sepuluh Nopember (Inactive)  
 
 
 ## Background
@@ -21,11 +21,11 @@ This is User Interview of AWAN app. This design is adapted to the results of UX 
 
 | Sign In Page   | Sign Up Page    | Home Page    |
 | ------------- | ------------- | -------- |
-|![1_sign in](https://user-images.githubusercontent.com/99232109/172507664-acde492a-18c8-44f8-9c15-6bc4215e65ee.jpg) |![2_sign up](https://user-images.githubusercontent.com/99232109/172507698-6ae61c96-e36e-4645-afe1-ce97c061a532.jpg)|![3_home](https://user-images.githubusercontent.com/99232109/172507745-507214d0-b837-425a-91b4-be11b3bb536d.jpg)|
+|![1_sign in](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/login.png) |![2_sign up](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/signup.png)|![3_home](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/home.png)|
 
-| Example Output 1    | Example Output2     | Log Out     |
+| Example Output 1    | Example Output 2     | Log Out     |
 | ------------- | ------------- | -------- |
-|![4_output1](https://user-images.githubusercontent.com/99232109/172507954-123636c7-d862-4959-82e4-25c55f836f9f.jpg)|![5_output2](https://user-images.githubusercontent.com/99232109/172507965-27a38d8d-89d4-4bf5-b254-ff4e91db3bdb.jpg)|<img width="1200" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/logout.png">|
+|![4_output1](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample1.png)|![5_output2](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample2.png)|![6_logout](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/logout.png)|
 
 ## Deployment to Google Cloud Platform
 These are step to deploy Machie Learning model using Google Compute Engine
