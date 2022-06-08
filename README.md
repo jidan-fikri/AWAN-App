@@ -5,6 +5,9 @@ This app is a part of Bangkit 2022 Capstone Project from team C22-PS272
 Weather forecasts have evolved a lot to this day. By knowing the weather changes that will occur then people can prepare themselves to face the impact of these weather changes. We wanted to make an application to predict the weather so that people can prepare for the impact of sudden weather changes so it doesn't interfere with their activities.
 According to Ivan Nugroho's research in 2014 with the title “Aplikasi Prakiraan Cuaca dan Intensitas Curah Hujan Menggunakan Android”, it is explained that people need information about weather conditions to facilitate their daily activities. In his research, it is also explained that there is one drawback, namely because the database is online, an internet network connection is needed to find out information from weather forecasts and rainfall intensity. Therefore, we try to make it offline so that it can be accessed even without the internet. We will use the Design Thinking method to make our plan to be systematic.
 
+## User Interface Application
+This is User Interview of AWAN app. This design is adapted to the results of UX research. The UI/UX design is done using the design thinking method in the figma application. The following is the overall result of a series of design thinking methods [UI/UX Design](https://tinyurl.com/PlanAPKinFigma). 
+
 ## Deployment to Google Cloud Platform
 These are step to deploy Machie Learning model using Google Compute Engine
 
@@ -75,6 +78,9 @@ These are step to deploy Machie Learning model using Google Compute Engine
   4. Test the server with open the external IP. Then test the prediction with Postman. The result is below. 
     
       ![Testing awan](https://user-images.githubusercontent.com/99232109/172502561-7fcf89da-73ce-42b3-b00f-2ed70c1c6bf5.png)
+  
+  
+ 
 
     
           
