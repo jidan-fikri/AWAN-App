@@ -25,7 +25,7 @@ This is User Interview of AWAN app. This design is adapted to the results of UX 
 
 | Example Output 1    | Eample Output2     | Log Out     |
 | ------------- | ------------- | -------- |
-|![4_output1](https://user-images.githubusercontent.com/99232109/172507954-123636c7-d862-4959-82e4-25c55f836f9f.jpg)|![5_output2](https://user-images.githubusercontent.com/99232109/172507965-27a38d8d-89d4-4bf5-b254-ff4e91db3bdb.jpg)|![6_logout](https://user-images.githubusercontent.com/99232109/172507976-6c240967-f4c9-4ddc-9c61-25400d7739e8.jpg)|
+|![4_output1](https://user-images.githubusercontent.com/99232109/172507954-123636c7-d862-4959-82e4-25c55f836f9f.jpg)|![5_output2](https://user-images.githubusercontent.com/99232109/172507965-27a38d8d-89d4-4bf5-b254-ff4e91db3bdb.jpg)|<img width="1200" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/6_logout.jpg">|
 
 ## Deployment to Google Cloud Platform
 These are step to deploy Machie Learning model using Google Compute Engine
