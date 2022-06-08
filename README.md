@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="300" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Awan_Logo-1_1__1_-removebg-preview.png" alt="Material Bread logo">
+</p>
 <h1 align="center">AWAN: Application on Weather Analysis Through Cloud Images Classification</h1>
 This app is a part of Bangkit 2022 Capstone Project from team C22-PS272:
 
