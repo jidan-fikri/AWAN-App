@@ -21,11 +21,12 @@ This is User Interview of AWAN app. This design is adapted to the results of UX 
 
 | Sign In Page   | Sign Up Page    | Home Page    |
 | ------------- | ------------- | -------- |
-|![1_sign in](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/login.png) |![2_sign up](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/signup.png)|![3_home](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/home.png)|
+|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/login.png">|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/signup.png">|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/home.png">|
+
 
 | Example Output 1    | Example Output 2     | Log Out     |
 | ------------- | ------------- | -------- |
-|![4_output1](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample1.png)|![5_output2](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample2.png)|![6_logout](https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/logout.png)|
+|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample1.png">|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample2.png">|<img width="1100" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/log-out.png">|
 
 ## Deployment to Google Cloud Platform
 These are step to deploy Machie Learning model using Google Compute Engine
