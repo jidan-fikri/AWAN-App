@@ -1,0 +1,25 @@
+<!--
+  ~ Copyright 2015 Google Inc. All Rights Reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportHeight="128.0"
+    android:viewportWidth="128.0">
+  <path
+      android:fillColor="#1C1C1C"
+      android:pathData="M120 0H8C5.87827 0 3.84344 0.963262 2.34315 2.67788C0.842854 4.3925 0 6.71802 0 9.14286V118.857C0 121.282 0.842854 123.608 2.34315 125.322C3.84344 127.037 5.87827 128 8 128H120C122.122 128 124.157 127.037 125.657 125.322C127.157 123.608 128 121.282 128 118.857V9.14286C128 6.71802 127.157 4.3925 125.657 2.67788C124.157 0.963262 122.122 0 120 0V0ZM27.68 18.2857C30.0534 18.2857 32.3735 19.09 34.3468 20.597C36.3202 22.1039 37.8583 24.2458 38.7666 26.7518C39.6748 29.2577 39.9124 32.0152 39.4494 34.6755C38.9864 37.3358 37.8435 39.7795 36.1653 41.6975C34.4871 43.6154 32.3489 44.9216 30.0211 45.4508C27.6933 45.9799 25.2805 45.7084 23.0878 44.6704C20.8951 43.6323 19.0209 41.8746 17.7024 39.6193C16.3838 37.3639 15.68 34.7124 15.68 32C15.68 28.3627 16.9443 24.8745 19.1947 22.3025C21.4452 19.7306 24.4974 18.2857 27.68 18.2857V18.2857ZM16 105.143V86.4L40 58.6057C40.7494 57.7543 41.7633 57.2764 42.82 57.2764C43.8767 57.2764 44.8905 57.7543 45.64 58.6057L56 70.1714L25.28 105.143H16ZM112 105.143H36.6L61.52 76.6629L83.12 51.9771C83.8695 51.1257 84.8833 50.6478 85.94 50.6478C86.9967 50.6478 88.0106 51.1257 88.76 51.9771L112 78.5371V105.143Z" />
+</vector>
