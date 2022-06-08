@@ -1,5 +1,13 @@
-# AWAN-App
-This app is a part of Bangkit 2022 Capstone Project from team C22-PS272
+<h1 align="center">AWAN: Application on Weather Analysis Through Cloud Images Classification</h1>
+This app is a part of Bangkit 2022 Capstone Project from team C22-PS272:
+
+- (ML) M7119F1498 - Jidan Fikri - Institut Teknologi Sumatera
+- (ML) M2119F1499 - Miftahul Donny Sanjaya - Institut Teknologi Sumatera
+- (ML) M7012G1294 - Kurnia Mayestic Gulo - Universitas Telkom
+- (CC) C2186F1797 - Aqmal Idris Zarkasih  - Universitas Bakrie
+- (CC) C2299F2586 - Iffah Fadhilah  - Universitas Pendidikan Indonesia
+- (MD) A7004G0351 - Aldi Fahmi Sihotang - Institut Teknologi Sepuluh Nopember (Inactive)
+
 
 ## Background
 Weather forecasts have evolved a lot to this day. By knowing the weather changes that will occur then people can prepare themselves to face the impact of these weather changes. We wanted to make an application to predict the weather so that people can prepare for the impact of sudden weather changes so it doesn't interfere with their activities.
