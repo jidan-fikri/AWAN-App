@@ -1,8 +1,11 @@
 <p align="center">
-  <img width="300" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Awan_Logo-1_1__1_-removebg-preview.png" alt="Material Bread logo">
+  <img width="300" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Awan_Logo-1_1__1_-removebg-preview.png">
 </p>
 <h1 align="center">AWAN: Application on Weather Analysis Through Cloud Images Classification</h1>
-This app is a part of Bangkit 2022 Capstone Project from team C22-PS272:
+
+**[Demo App](https://drive.google.com/file/d/11cGNiyM7-L1fp5DLZrRyULXxIPt3Rh4G/view?usp=sharing) - [Download App](https://drive.google.com/file/d/1NOfimIcaunZdxEclqUAIDLBa0i2Y_ZrQ/view?usp=sharing) - [Product Orientation](https://drive.google.com/file/d/1NOfimIcaunZdxEclqUAIDLBa0i2Y_ZrQ/view?usp=sharing)**
+  
+This app is a part of Bangkit 2022 Capstone Project from team C22-PS272 (Krizaryh):
 
 - (ML) M7119F1498 - Jidan Fikri - Institut Teknologi Sumatera
 - (ML) M2119F1499 - Miftahul Donny Sanjaya - Institut Teknologi Sumatera
@@ -16,16 +19,25 @@ This app is a part of Bangkit 2022 Capstone Project from team C22-PS272:
 Weather forecasts have evolved a lot to this day. By knowing the weather changes that will occur then people can prepare themselves to face the impact of these weather changes. We wanted to make an application to predict the weather so that people can prepare for the impact of sudden weather changes so it doesn't interfere with their activities.
 According to Ivan Nugroho's research in 2014 with the title “Aplikasi Prakiraan Cuaca dan Intensitas Curah Hujan Menggunakan Android”, it is explained that people need information about weather conditions to facilitate their daily activities. In his research, it is also explained that there is one drawback, namely because the database is online, an internet network connection is needed to find out information from weather forecasts and rainfall intensity. Therefore, we try to make it offline so that it can be accessed even without the internet. We will use the Design Thinking method to make our plan to be systematic.
 
+## Advantages
+The advantages of our capstone project
+1. Personally, it can help to predict weather conditions from cloud that we take the picture
+2. For workers field, they can work faster or finish the work before rain arrives.
+
 ## User Interface and User Experience Application
 This is User Interview of AWAN app. This design is adapted to the results of UX research. The UI/UX design is done using the design thinking method in the figma application. The following is the overall result of a series of design thinking methods [UI/UX Design](https://tinyurl.com/PlanAPKinFigma). 
 
 | Loading Page  | Login Page | Register Page | Home Page |
 | ------------- | ------------- | ------------- | ------------- |
-|![Load_AWAN](https://user-images.githubusercontent.com/99232109/172766279-110fa122-0319-4f6b-93ac-0861c63da83f.jpg)| ![Login_AWAN](https://user-images.githubusercontent.com/99232109/172766376-9d00092f-b22a-4fa0-9ffd-a5ff8ffb0fef.jpg)|![Register_AWAN](https://user-images.githubusercontent.com/99232109/172766468-4cc0690a-d10b-4d65-b476-2a0146e371ef.jpg)|![Home_AWAN](https://user-images.githubusercontent.com/99232109/172766519-2c61d7af-c11d-49bf-8460-9fe1572b653d.jpg)|
+|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Load_AWAN.jpg" width="1000"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Login_AWAN.jpg" width="1100"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Register_AWAN.jpg" width="1000"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Home_AWAN.jpg" width="1100"/>|
 
- 
-  
+| History Page  | Notification Page| Predict Page | 
+| ------------- | ------------- | ------------- | 
+|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/History_AWAN.jpg" width="1000"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Notifications_AWAN.jpg" width="900"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Detection_AWAN.jpg" width="1000"/>| 
 
+| Prediction_1 Page  | Prediction_2 Page| Account Page | 
+| ------------- | ------------- | ------------- | 
+|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Detection1_AWAN.jpg" width="900"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Detection2_AWAN.jpg" width="900"/>|<img src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/Account_AWAN.jpg" width="980"/>| 
 
 
 ## Deployment to Google Cloud Platform
@@ -98,6 +110,8 @@ These are step to deploy Machie Learning model using Google Compute Engine
   4. Test the server with open the external IP. Then test the prediction with Postman. The result is below. 
     
       ![Testing awan](https://user-images.githubusercontent.com/99232109/172502561-7fcf89da-73ce-42b3-b00f-2ed70c1c6bf5.png)
+ 
+ Thank you for visiting. Happy testing! ✨
   
   
  
