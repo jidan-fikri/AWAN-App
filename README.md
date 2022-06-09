@@ -19,14 +19,14 @@ According to Ivan Nugroho's research in 2014 with the title “Aplikasi Prakiraa
 ## User Interface and User Experience Application
 This is User Interview of AWAN app. This design is adapted to the results of UX research. The UI/UX design is done using the design thinking method in the figma application. The following is the overall result of a series of design thinking methods [UI/UX Design](https://tinyurl.com/PlanAPKinFigma). 
 
-| Sign In Page   | Sign Up Page    | Home Page    |
-| ------------- | ------------- | -------- |
-|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/login.png">|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/signup.png">|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/home.png">|
+| Loading Page  | Login Page | Register Page | Home Page |
+| ------------- | ------------- | ------------- | ------------- |
+|![Load_AWAN](https://user-images.githubusercontent.com/99232109/172766279-110fa122-0319-4f6b-93ac-0861c63da83f.jpg)| ![Login_AWAN](https://user-images.githubusercontent.com/99232109/172766376-9d00092f-b22a-4fa0-9ffd-a5ff8ffb0fef.jpg)|![Register_AWAN](https://user-images.githubusercontent.com/99232109/172766468-4cc0690a-d10b-4d65-b476-2a0146e371ef.jpg)|![Home_AWAN](https://user-images.githubusercontent.com/99232109/172766519-2c61d7af-c11d-49bf-8460-9fe1572b653d.jpg)|
+
+ 
+  
 
 
-| Example Output 1    | Example Output 2     | Log Out     |
-| ------------- | ------------- | -------- |
-|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample1.png">|<img width="1000" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/sample2.png">|<img width="1110" src="https://github.com/jidan-fikri/AWAN-App/blob/master/Assets/log-out.png">|
 
 ## Deployment to Google Cloud Platform
 These are step to deploy Machie Learning model using Google Compute Engine
