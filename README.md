@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">AWAN: Application on Weather Analysis Through Cloud Images Classification</h1>
 
-**[Demo App](https://drive.google.com/file/d/11cGNiyM7-L1fp5DLZrRyULXxIPt3Rh4G/view?usp=sharing) - [Download App](https://drive.google.com/file/d/1NOfimIcaunZdxEclqUAIDLBa0i2Y_ZrQ/view?usp=sharing) - [Product Orientation](https://docs.google.com/presentation/d/1IB50x-IChrVnMhXfSvF2GXmtLoCozh-k/edit#slide=id.p1)**
+**[Demo App](https://drive.google.com/file/d/11cGNiyM7-L1fp5DLZrRyULXxIPt3Rh4G/view?usp=sharing) - [Download App](https://drive.google.com/file/d/1Y4d-aQ7V_emExz7EuUUEmMpTsPSCLb2P/view?usp=sharing) - [Product Orientation](https://docs.google.com/presentation/d/1IB50x-IChrVnMhXfSvF2GXmtLoCozh-k/edit#slide=id.p1)**
   
 This app is a part of Bangkit 2022 Capstone Project from team C22-PS272 (Krizaryh):
 
